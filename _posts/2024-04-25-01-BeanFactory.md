@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      BeanFactory
+title:      01-BeanFactory
 subtitle:   认识Bean工厂
 date:       2024-04-25
 author:     zhoujunlin
