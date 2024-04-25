@@ -79,11 +79,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "CSDN",
+        href: "https://blog.csdn.net/qq_26813531/category_12629799.html?spm=1001.2014.3001.5482"
     },
     {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "语雀",
+        href: "https://www.yuque.com/zhoujunlin-orbc3/sqn87t"
     }
 ]
