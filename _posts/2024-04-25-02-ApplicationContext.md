@@ -14,7 +14,7 @@ tags:
 
 <a name="SoiH9"></a>
 # ApplicationContext具备的能力
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/22825798/1709637826335-ce9afb69-8e47-47d3-a0c7-11fea11342be.png#averageHue=%232e2e2e&clientId=u7ff37d2f-2568-4&from=paste&height=209&id=u47ec01d4&originHeight=261&originWidth=1487&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=29223&status=done&style=none&taskId=u3f21cb2f-5259-44ec-a9c6-a14137fea2c&title=&width=1189.6)
+![](https://pic.imgdb.cn/item/662a0e3a0ea9cb1403360960.png)
 <a name="r7MtU"></a>
 ## 路径解析
 ```java
@@ -38,7 +38,9 @@ System.err.println(property);
 ```
 <a name="qAvCZ"></a>
 ## 国际化
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/22825798/1709637314665-b699264c-e8f7-4abe-b2f7-a58bd4a56141.png#averageHue=%234a554b&clientId=u7ff37d2f-2568-4&from=paste&height=93&id=u2809a491&originHeight=116&originWidth=359&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=6994&status=done&style=none&taskId=u17e3c7bb-a0e2-462f-b06d-dc5c7a0e7be&title=&width=287.2)<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/22825798/1709637355574-6ef61191-d179-42c1-8a6a-7c18929d5b11.png#averageHue=%2348543d&clientId=u7ff37d2f-2568-4&from=paste&height=93&id=u59384cc3&originHeight=116&originWidth=1318&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=18316&status=done&style=none&taskId=u0b09a4d4-ae80-46be-8a41-f717b8cf5c3&title=&width=1054.4)
+![](https://pic.imgdb.cn/item/662a0f230ea9cb140338248a.webp)
+<br/>
+![](https://pic.imgdb.cn/item/662a0e7d0ea9cb1403369d2a.webp)
 ```java
 // String welcome = applicationContext.getMessage("welcome", new String[]{"zhoujunlin", DateUtil.now()}, Locale.CHINA);
 String welcome = applicationContext.getMessage("welcome", new String[]{"zhoujunlin", DateUtil.now()}, Locale.US);
