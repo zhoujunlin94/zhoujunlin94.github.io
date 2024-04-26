@@ -14,7 +14,7 @@ tags:
 
 <a name="SoiH9"></a>
 # ApplicationContext具备的能力
-![](https://pic.imgdb.cn/item/662a0e3a0ea9cb1403360960.png)
+![](https://cdn.jsdelivr.net/gh/zhoujunlin94/picture_bed/blogapplicationContext01.png)
 <a name="r7MtU"></a>
 ## 路径解析
 ```java
@@ -38,9 +38,9 @@ System.err.println(property);
 ```
 <a name="qAvCZ"></a>
 ## 国际化
-![](https://pic.imgdb.cn/item/662a0f230ea9cb140338248a.webp)
+![](https://cdn.jsdelivr.net/gh/zhoujunlin94/picture_bed/blogapplicationContext02.png)
 <br/>
-![](https://pic.imgdb.cn/item/662a0e7d0ea9cb1403369d2a.webp)
+![](https://cdn.jsdelivr.net/gh/zhoujunlin94/picture_bed/blogapplicationContext03.png)
 ```java
 // String welcome = applicationContext.getMessage("welcome", new String[]{"zhoujunlin", DateUtil.now()}, Locale.CHINA);
 String welcome = applicationContext.getMessage("welcome", new String[]{"zhoujunlin", DateUtil.now()}, Locale.US);
